@@ -1,0 +1,8 @@
+<resources>
+    
+    <string-array name="bj_menu">
+		<item>4 Pack of Bartles and Jaymes</item>
+		<item>Party Pack of Bartles and Jaymes</item>
+    </string-array>
+    
+</resources>

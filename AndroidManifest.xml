@@ -1,0 +1,286 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.soboapps.beerrun"
+    android:versionCode="4"
+    android:versionName="1.4" >
+
+    <uses-sdk android:minSdkVersion="8" />
+    
+    <uses-permission android:name="android.permission.SEND_SMS"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".BacardibListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.BACARDIBMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
+            android:name=".BjListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.BJMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
+            android:name=".BudListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.BUDMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".BudlightListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.BUDLIGHTMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+ 
+		<activity
+            android:name=".BudlightLimeListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.BUDLIGHTLIMEMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".BudlightplatListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.BUDLIGHTPLATMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+ 
+		<activity
+            android:name=".Colt45ListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.COLT45MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".CoorslightListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.COORSLIGHTMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".CoronaextraListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.CORONAEXTRAMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".DosequisListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.DOSEQUISMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".GuinnessListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.GUINNESSMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".HeinekenListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.HEINEKENMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".KeystoneiceListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.KEYSTONEICEMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".KeystonelightListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.KEYSTONELIGHTMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>		
+
+		<activity
+            android:name=".MikeshardListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.MIKESHARDMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>	
+
+		<activity
+            android:name=".MillerListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.MILLERMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>		
+
+		<activity
+            android:name=".MgdListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.MGDMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>			
+		
+		<activity
+            android:name=".MillerliteListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.MILLERLITEMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>	
+		
+		<activity
+            android:name=".NaturaliceListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.NATURALICEMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>	
+
+		<activity
+            android:name=".NaturallightListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.NATURALLIGHTMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>	
+
+		<activity
+            android:name=".PbrListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.PBRMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".RollingrockListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.ROLLINGROCKMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
+            android:name=".SamadamsListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.SAMADAMSMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
+            android:name=".SmirnofficeListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.SMIRNOFFICEMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
+            android:name=".YuenglingListMenu"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.YUENGLINGMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+		<activity
+            android:name=".about"
+            android:label="@string/stAbout_br"
+            android:exported="false"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.ABOUT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
+            android:name=".Donate"
+            android:label="@string/stDonate"
+            android:exported="false"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.soboapps.beerrun.DONATE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		
+		<service android:name=".BillingService" />
+
+	    <receiver 
+	        android:name=".BillingReceiver"
+	        android:exported="false" >
+	      <intent-filter>
+	        <action android:name="com.android.vending.billing.IN_APP_NOTIFY" />
+	        <action android:name="com.android.vending.billing.RESPONSE_CODE" />
+	        <action android:name="com.android.vending.billing.PURCHASE_STATE_CHANGED" />
+	      </intent-filter>
+	    </receiver>
+		
+    </application>
+</manifest>

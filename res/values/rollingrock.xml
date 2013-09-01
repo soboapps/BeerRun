@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="rollingrock_menu">
+		<item>6 Pack of Rolling Rock</item>
+		<item>12 Pack of Rolling Rock</item>
+		<item>Case of Rolling Rock</item>
+		<item>40oz Rolling Rock</item>
+    </string-array>
+    
+</resources>

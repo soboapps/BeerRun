@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="miller_menu">
+		<item>6 Pack of Miller</item>
+		<item>12 Pack of Miller</item>
+		<item>Case of Miller</item>
+		<item>40oz Miller</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="budlight_menu">
+		<item>6 Pack of Bud Light</item>
+		<item>12 Pack of Bud Light</item>
+		<item>Case of Bud Light</item>
+		<item>40oz Bud Light</item>
+    </string-array>
+    
+</resources>

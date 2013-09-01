@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="coronaextra_menu">
+		<item>6 Pack of Corona Extra</item>
+		<item>12 Pack of Corona Extra</item>
+		<item>Case of Corona Extra</item>
+		<item>40oz Corona Extra</item>
+    </string-array>
+    
+</resources>

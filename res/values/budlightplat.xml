@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="budlightplat_menu">
+		<item>6 Pack of Bud Light Platinum</item>
+		<item>12 Pack of Bud Light Platinum</item>
+		<item>Case of Bud Light Platinum</item>
+		<item>40oz Bud Light Platinum</item>
+    </string-array>
+    
+</resources>

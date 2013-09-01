@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="heineken_menu">
+		<item>6 Pack of Heineken</item>
+		<item>12 Pack of Heineken</item>
+		<item>Case of Heineken</item>
+		<item>40oz Heineken</item>
+    </string-array>
+    
+</resources>

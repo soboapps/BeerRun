@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="pbr_menu">
+		<item>6 Pack of Pabst Blue Ribbon</item>
+		<item>12 Pack of Pabst Blue Ribbon</item>
+		<item>Case of Pabst Blue Ribbon</item>
+		<item>40oz Pabst Blue Ribbon</item>
+    </string-array>
+    
+</resources>

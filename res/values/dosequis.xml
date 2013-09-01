@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="dosequis_menu">
+		<item>6 Pack of Dos Equis</item>
+		<item>12 Pack of Dos Equis</item>
+		<item>Case of Dos Equis</item>
+		<item>40oz Dos Equis</item>
+    </string-array>
+    
+</resources>

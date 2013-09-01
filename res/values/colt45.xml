@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="colt45_menu">
+		<item>6 Pack of Colt 45</item>
+		<item>12 Pack of Colt 45</item>
+		<item>Case of Colt 45</item>
+		<item>40oz Colt 45</item>
+    </string-array>
+    
+</resources>

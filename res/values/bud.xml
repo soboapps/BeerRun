@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="bud_menu">
+		<item>6 Pack of Budweiser</item>
+		<item>12 Pack of Budweiser</item>
+		<item>Case of Budweiser</item>
+		<item>40oz Budweiser</item>
+    </string-array>
+    
+</resources>

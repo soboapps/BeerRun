@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="coorslight_menu">
+		<item>6 Pack of Coors Light</item>
+		<item>12 Pack of Coors Light</item>
+		<item>Case of Coors Light</item>
+		<item>40oz Coors Light</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="guinness_menu">
+		<item>4 Pack of Guinness</item>
+		<item>6 Pack of Guinness</item>
+		<item>12 Pack of Guinness</item>
+		<item>Case of Guinness</item>
+    </string-array>
+    
+</resources>

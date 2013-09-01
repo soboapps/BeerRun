@@ -1,0 +1,8 @@
+<resources>
+    
+    <string-array name="smirnoffice_menu">
+		<item>6 Pack of Smirnoff Ice</item>
+		<item>Party Pack of Smirnoff Ice</item>
+    </string-array>
+    
+</resources>

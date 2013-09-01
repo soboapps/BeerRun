@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="naturalice_menu">
+		<item>6 Pack of Natural Ice</item>
+		<item>12 Pack of Natural Ice</item>
+		<item>Case of Natural Ice</item>
+		<item>40oz Natural Ice</item>
+    </string-array>
+    
+</resources>

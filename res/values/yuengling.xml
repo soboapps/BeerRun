@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="yuengling_menu">
+		<item>6 Pack of Yuengling</item>
+		<item>12 Pack of Yuengling</item>
+		<item>Case of Yuengling</item>
+		<item>40oz Yuengling</item>
+    </string-array>
+    
+</resources>

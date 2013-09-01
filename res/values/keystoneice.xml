@@ -1,0 +1,9 @@
+<resources>
+    
+    <string-array name="keystoneice_menu">
+		<item>6 Pack of Keystone Ice</item>
+		<item>12 Pack of Keystone Ice</item>
+		<item>Case of Keystone Ice</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    
+    <string-array name="keystonelight_menu">
+		<item>6 Pack of Keystone Light</item>
+		<item>12 Pack of Keystone Light</item>
+		<item>Case of Keystone Light</item>
+    </string-array>
+    
+</resources>

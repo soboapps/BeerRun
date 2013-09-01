@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="naturallight_menu">
+		<item>6 Pack of Natural Light</item>
+		<item>12 Pack of Natural Light</item>
+		<item>Case of Natural Light</item>
+		<item>40oz Natural Light</item>
+    </string-array>
+    
+</resources>

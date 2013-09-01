@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="samadams_menu">
+		<item>6 Pack of Samuel Adams</item>
+		<item>12 Pack of Samuel Adams</item>
+		<item>Case of Samuel Adams</item>
+		<item>40oz Samuel Adams</item>
+    </string-array>
+    
+</resources>

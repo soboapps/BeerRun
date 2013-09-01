@@ -1,0 +1,10 @@
+<resources>
+    
+    <string-array name="mgd_menu">
+		<item>6 Pack of Miller Genuine Draft</item>
+		<item>12 Pack of Miller Genuine Draft</item>
+		<item>Case of Miller Genuine Draft</item>
+		<item>40oz Miller Genuine Draft</item>
+    </string-array>
+    
+</resources>

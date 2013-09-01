@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">Beer Run</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Beer Run</string>
+    <string name="stDonate">Donate</string>
+    <string name="donate1">Donate $1</string>
+    <string name="BeerRunTitle">Beer Run</string>
+    <string name="bacardibTitle">Bacardi Breezer</string>
+    <string name="bjTitle">Bartles \u0026 Jaymes</string>
+    <string name="budTitle">Budweiser</string>
+    <string name="budlightTitle">Bud Light</string>
+    <string name="budlightlimeTitle">Bud Light Lime</string>
+    <string name="budlightplatTitle">Bud Light Platinum</string>
+    <string name="colt45Title">Colt 45</string>
+    <string name="coorslightTitle">Coors Light</string>
+    <string name="coronaextraTitle">Corona Extra</string>
+    <string name="dosequisTitle">Dos Equis</string>
+    <string name="guinnessTitle">Guinness</string>
+    <string name="heinekenTitle">Heineken</string>
+    <string name="keystoneiceTitle">Keystone Ice</string>
+    <string name="keystonelightTitle">Keystone Light</string>
+    <string name="mgdTitle">Miller Genuine Draft</string>
+    <string name="mikeshardTitle">Mike\u0027s Hard Lemonade</string>
+    <string name="millerTitle">Miller</string>
+    <string name="millerliteTitle">Miller Lite</string>
+    <string name="naturaliceTitle">Natural Ice</string>
+    <string name="naturallightTitle">Natural Light</string>
+    <string name="pbrTitle">Pabst Blue Ribbon</string>
+    <string name="rollingrockTitle">Rolling Rock</string>
+    <string name="samadamsTitle">Samuel Adams</string>
+    <string name="smirnofficeTitle">Smirnoff Ice</string>
+    <string name="yuenglingTitle">Yuengling</string>
+    <string name="stAbout">About</string>
+    <string name="stAboutSobo">About South Bound Apps</string>
+    <string name="stExit">Exit</string>
+    <string name="stBeer">Beer</string>
+    <string name="stRun">Run</string>
+    <string name="stAbout_br">Beer Run 1.4 \u00A9 2012</string>
+    <string name="stSlogan">It\u0027s faster than your drunk a\u002a\u002a fingers\u0021</string>
+    <string name="stCompany">South Bound Apps</string>
+    <string name="stWWW">http://www.soboapps.com</string>
+    <string name="MY_AD_UNIT_ID"></string>
+    <string name="disclaimer">All other logos and trademarks are the property of the respective trademark owners. \u00ae and \u2122 denote registered trademarks in the United States and other countries</string>
+</resources>
